@@ -1,11 +1,11 @@
 baseURL = 'https://michaelfclements.github.io/'
-languageCode = 'en-us'
+languageCode = 'en-gb'
 title = "Michael's Resources"
 theme = 'book'
 author = 'Michael'
 [params]
 BookSearch = true
-BookSection = 'resources'
+BookSection = 'sectionpiece'
 [module]
 [module.hugoVersion]
   extended = true

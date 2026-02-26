@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/sectionpiece/research/researchheader/</loc>
+    <lastmod>2026-02-26T18:00:39+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sectionpiece/resources/resourcesheader/</loc>
+    <lastmod>2026-02-26T18:00:39+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-26T18:00:39+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/splash/</loc>
     <lastmod>2026-02-26T18:00:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/accessibility/</loc>
+    <loc>http://localhost:1313/sectionpiece/resources/posts/accessibility/</loc>
     <lastmod>2026-02-26T18:00:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/figures/</loc>
+    <loc>http://localhost:1313/sectionpiece/resources/posts/figures/</loc>
     <lastmod>2026-02-26T18:00:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/</loc>
+    <loc>http://localhost:1313/sectionpiece/research/researchtest/</loc>
     <lastmod>2026-02-26T18:00:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/simple-visualisation-resources/</loc>
+    <loc>http://localhost:1313/sectionpiece/</loc>
+    <lastmod>2026-02-26T18:00:39+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sectionpiece/resources/posts/simple-visualisation-resources/</loc>
     <lastmod>2026-02-26T18:00:39+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

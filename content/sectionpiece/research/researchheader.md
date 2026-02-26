@@ -1,9 +1,8 @@
 ---
-title: "Making figures"
 date: '2026-02-26T18:00:39Z'
-draft: true
+title: '**Research**'
+weight: 10
+bookHidden: true
 author:
     name: "Michael"
 ---
-
-Figure placeholder info
