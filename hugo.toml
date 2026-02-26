@@ -3,7 +3,9 @@ languageCode = 'en-us'
 title = "Michael's Resources"
 theme = 'book'
 author = 'Michael'
+[params]
 BookSearch = true
+BookSection = 'resources'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
