@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = 'My New Hugo Project :]'
 theme = 'ananke'
 author = 'Michael'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
