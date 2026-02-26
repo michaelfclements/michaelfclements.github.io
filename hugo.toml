@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Project :]'
-theme = 'ananke'
+title = "Michael's Resources"
+theme = 'book'
 author = 'Michael'
 [caches]
   [caches.images]
